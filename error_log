@@ -1,0 +1,75 @@
+[08-Nov-2025 09:09:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
+[08-Nov-2025 09:09:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
+[08-Nov-2025 09:10:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
+[08-Nov-2025 09:10:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
+[08-Nov-2025 09:18:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
+[08-Nov-2025 09:18:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
+[08-Nov-2025 09:18:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/all-anime.php:11
+Stack trace:
+#0 /home2/novadong/public_html/all-anime.php(11): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/novadong/public_html/all-anime.php on line 11
+[08-Nov-2025 09:18:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/all-anime.php:11
+Stack trace:
+#0 /home2/novadong/public_html/all-anime.php(11): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/novadong/public_html/all-anime.php on line 11
+[08-Nov-2025 09:18:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/search.php:13
+Stack trace:
+#0 /home2/novadong/public_html/search.php(13): PDO->prepare('SELECT id, titl...')
+#1 {main}
+  thrown in /home2/novadong/public_html/search.php on line 13
+[08-Nov-2025 09:18:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/search.php:13
+Stack trace:
+#0 /home2/novadong/public_html/search.php(13): PDO->prepare('SELECT id, titl...')
+#1 {main}
+  thrown in /home2/novadong/public_html/search.php on line 13
+[08-Nov-2025 09:18:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/search.php:13
+Stack trace:
+#0 /home2/novadong/public_html/search.php(13): PDO->prepare('SELECT id, titl...')
+#1 {main}
+  thrown in /home2/novadong/public_html/search.php on line 13
+[08-Nov-2025 09:18:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
+[08-Nov-2025 09:18:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
+[08-Nov-2025 09:18:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
+[08-Nov-2025 09:23:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'novadong_lol.anime' doesn't exist in /home2/novadong/public_html/index.php:6
+Stack trace:
+#0 /home2/novadong/public_html/index.php(6): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/novadong/public_html/index.php on line 6
